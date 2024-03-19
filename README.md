@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Fazaker](https://github.com/MYMMIRACLE/fazakir)
 
-- 💬 Ask me about **flutter, firebase, google maps**
+- 💬 Ask me about **dart, flutter, firebase, google maps**
 
 - 📫 How to reach me **gcfjxvkj@gmail.com**
 
