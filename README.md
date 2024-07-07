@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudelsayed69&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelsayed69" /> </p>
 
-- 🔭 I’m currently working on [DR-AI](https://github.com/MAHMOUDELSAYED69/dr_ai)
+- 🔭 I’m currently working on [akadmen](https://github.com/MAHMOUDELSAYED69/akadomen.git)
 
-- 🌱 I’m currently learning **Kotlin, jetpack compose**
+- 🌱 I’m currently learning **Kotlin, jetpack compose, NodeJS**
 
 - 👯 I’m looking to collaborate on [Fazaker](https://github.com/MYMMIRACLE/fazakir)
 
