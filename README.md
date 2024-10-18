@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudelsayed69&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelsayed69" /> </p>
 
-- 🔭 I’m currently working on [Tech Haven](https://github.com/MAHMOUDELSAYED69/Tech-Haven.git)
+- 🔭 I’m currently working on **`[Akodo]`** (Private Repository)
 
 - 🌱 I’m currently learning **flutter, kotlin, jetpack compose, node js**
 
-- 👯 I’m looking to collaborate on [Fazaker](https://github.com/MYMMIRACLE/fazakir)
+- 👯 I’m looking to collaborate on **`[Akodo]`** (Private Repository)
 
 - 💬 Ask me about **dart, flutter, firebase, google maps**
 
