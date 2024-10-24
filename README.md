@@ -15,10 +15,11 @@
 
 - 📫 How to reach me **mahmoudelsayed.dev@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/m7mood69" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="m7mood69" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahmoud-el-sayed-b0b19b262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-el-sayed-b0b19b262" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoud-el-sayed-b0b19b262" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mahmoud-el-sayed-b0b19b262" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mahmoudelsayed123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moknk.argere" height="30" width="40" /></a>
 <a href="https://instagram.com/theonlymahmoud_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theonlymahmoud_" height="30" width="40" /></a>
 </p>
@@ -29,8 +30,7 @@
 
 <div style="text-align: center;">
     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=MAHMOUDELSAYED69&theme=transparent&border_radius=10&card_width=360&card_height=170&hide_border=true" alt="GitHub Streak" />
-    </a>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=MAHMOUDELSAYED69&theme=transparent&border_radius=10&card_width=360&card_height=170&hide_border=true" alt="GitHub Streak" /></a>
     <a href="https://github.com/MAHMOUDELSAYED69">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHMOUDELSAYED69&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
     </a>
