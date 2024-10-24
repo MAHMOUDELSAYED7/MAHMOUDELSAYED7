@@ -29,13 +29,13 @@
 
 <div style="text-align: center;">
     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=MAHMOUDELSAYED69&theme=whatsapp-dark2&border_radius=10&card_width=360&card_height=170" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=MAHMOUDELSAYED69&theme=transparent&border_radius=10&card_width=360&card_height=170&hide_border=true" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/MAHMOUDELSAYED69">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHMOUDELSAYED69&layout=compact&theme=blue-green" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHMOUDELSAYED69&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
     </a>
-    <a href="https://github-readme-stats.vercel.app/api?username=MAHMOUDELSAYED69&theme=dark&show_icons=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=MAHMOUDELSAYED69&theme=dark&show_icons=true" alt="GitHub Readme Stats" />
+    <a href="https://github-readme-stats.vercel.app/api?username=MAHMOUDELSAYED69&theme=transparent&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=MAHMOUDELSAYED69&theme=transparent&show_icons=true&hide_border=true" alt="GitHub Readme Stats" />
     </a>
 </div>
 
