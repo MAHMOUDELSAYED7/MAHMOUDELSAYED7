@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud El Sayed</h1>
 <h3 align="center">A passionate Flutter developer from Egypt </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudelsayed69&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelsayed69" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MAHMOUDELSAYED7&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMOUDELSAYED7" /> </p>
 
 - 🔭 I’m currently working on **`[Akodo]`** (Private Repository)
 
@@ -30,12 +30,12 @@
 
 <div style="text-align: center;">
     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=MAHMOUDELSAYED69&theme=transparent&border_radius=10&card_width=360&card_height=170&hide_border=true" alt="GitHub Streak" /></a>
-    <a href="https://github.com/MAHMOUDELSAYED69">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHMOUDELSAYED69&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=MAHMOUDELSAYED7&theme=transparent&border_radius=10&card_width=360&card_height=170&hide_border=true" alt="GitHub Streak" /></a>
+    <a href="https://github.com/MAHMOUDELSAYED7">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHMOUDELSAYED7&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
     </a>
-    <a href="https://github-readme-stats.vercel.app/api?username=MAHMOUDELSAYED69&theme=transparent&show_icons=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=MAHMOUDELSAYED69&theme=transparent&show_icons=true&hide_border=true" alt="GitHub Readme Stats" />
+    <a href="https://github-readme-stats.vercel.app/api?username=MAHMOUDELSAYED7&theme=transparent&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=MAHMOUDELSAYED7&theme=transparent&show_icons=true&hide_border=true" alt="GitHub Readme Stats" />
     </a>
 </div>
 
