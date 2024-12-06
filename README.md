@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAHMOUDELSAYED7&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMOUDELSAYED7" /> </p>
 
-- 🔭 I’m currently working on **`[Akodo]`** (Private Repository)
+- 🔭 I’m currently working on **`Moghtareb`** [*Private Repository*](PrivateRepository)
 
-- 🌱 I’m currently learning **flutter, kotlin, jetpack compose, node js**
+- 🌱 I’m currently learning **Kotlin, Jetpack Compose, Node js**
 
-- 👯 I’m looking to collaborate on **`[Akodo]`** (Private Repository)
+- 👯 I’m looking to collaborate on **`Moghtareb`** [*Private Repository*](PrivateRepository)
 
-- 💬 Ask me about **dart, flutter, firebase, google maps**
+- 💬 Ask me about **Dart, Flutter, Firebase, Google Maps**
 
 - 📫 How to reach me **mahmoudelsayed.dev@gmail.com**
 
