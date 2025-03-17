@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **`Moghtareb`** [*Private Repository*](PrivateRepository)
 
-- 🌱 I’m currently learning **Kotlin, Jetpack Compose, **
+- 🌱 I’m currently learning **Kotlin, Jetpack Compose, Express.js**
 
 - 👯 I’m looking to collaborate on **`Moghtareb`** [*Private Repository*](PrivateRepository)
 
