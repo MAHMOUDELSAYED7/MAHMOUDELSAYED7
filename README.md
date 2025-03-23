@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAHMOUDELSAYED7&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMOUDELSAYED7" /> </p>
 
-- 🔭 I’m currently working on **`Plannify`** [*Plannify*](https://github.com/MAHMOUDELSAYED7/Plannify)
+- 🔭 I’m currently working on [**Cloza**](https://github.com/MAHMOUDELSAYED7/Cloza)
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose, Express.js**
 
