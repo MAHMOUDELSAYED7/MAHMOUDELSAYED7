@@ -5,11 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAHMOUDELSAYED7&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMOUDELSAYED7" /> </p>
 
-- 🔭 I’m currently working on [**Cloza**](https://github.com/MAHMOUDELSAYED7/Cloza)
-
+- 🔭 I’m currently working on [*Private Repository*](PrivateRepository)
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose, Express.js**
 
-- 👯 I’m looking to collaborate on **`Moghtareb`** [*Private Repository*](PrivateRepository)
+- 👯 I’m looking to collaborate on [*Private Repository*](PrivateRepository)
 
 - 💬 Ask me about **Dart, Flutter, Firebase, Google Maps**
 
