@@ -76,8 +76,9 @@
     <!-- Swift -->
     <a href="https://developer.apple.com/swift/" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" title="Swift" style="display: block; border: none;"/></a>
     <!-- Linux -->
-    <a href="https://www.linux.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="
+    <a href="https://www.linux.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <div style="text-align: center;">
     <a href="https://git.io/streak-stats">
