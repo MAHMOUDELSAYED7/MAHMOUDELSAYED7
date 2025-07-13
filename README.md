@@ -35,11 +35,53 @@
 
 
 ### 🛠️ Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter,kotlin,java,firebase,git,arduino,js,nodejs,express,mongodb,sqlite,supabase,appwrite,mysql,cpp,postman,figma,python,swift,linux&perline=8" />
-  </a>
-</p>
+### 🛠️ Tech Stack
+<p align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; font-size: 0;">
+    <!-- Android Studio -->
+    <a href="https://developer.android.com/studio" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" title="Android Studio" style="display: block; border: none;"/></a>
+    <!-- Dart -->
+    <a href="https://dart.dev" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart" style="display: block; border: none;"/></a>
+    <!-- Flutter -->
+    <a href="https://flutter.dev" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" style="display: block; border: none;"/></a>
+    <!-- Kotlin -->
+    <a href="https://kotlinlang.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" style="display: block; border: none;"/></a>
+    <!-- Java -->
+    <a href="https://www.java.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" style="display: block; border: none;"/></a>
+    <!-- Firebase -->
+    <a href="https://firebase.google.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" style="display: block; border: none;"/></a>
+    <!-- Git -->
+    <a href="https://git-scm.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" style="display: block; border: none;"/></a>
+    <!-- Arduino -->
+    <a href="https://www.arduino.cc" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino" style="display: block; border: none;"/></a>
+    <!-- JavaScript -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" style="display: block; border: none;"/></a>
+    <!-- Node.js -->
+    <a href="https://nodejs.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" style="display: block; border: none;"/></a>
+    <!-- Express -->
+    <a href="https://expressjs.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express.js" style="display: block; border: none;"/></a>
+    <!-- MongoDB -->
+    <a href="https://www.mongodb.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" style="display: block; border: none;"/></a>
+    <!-- SQLite -->
+    <a href="https://www.sqlite.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" style="display: block; border: none;"/></a>
+    <!-- Supabase -->
+    <a href="https://supabase.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" style="display: block; border: none;"/></a>
+    <!-- Appwrite -->
+    <a href="https://appwrite.io" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=appwrite" alt="Appwrite" title="Appwrite" style="display: block; border: none;"/></a>
+    <!-- MySQL -->
+    <a href="https://www.mysql.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" style="display: block; border: none;"/></a>
+    <!-- C++ -->
+    <a href="https://isocpp.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" style="display: block; border: none;"/></a>
+    <!-- Postman -->
+    <a href="https://www.postman.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" style="display: block; border: none;"/></a>
+    <!-- Figma -->
+    <a href="https://www.figma.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" style="display: block; border: none;"/></a>
+    <!-- Python -->
+    <a href="https://www.python.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" style="display: block; border: none;"/></a>
+    <!-- Swift -->
+    <a href="https://developer.apple.com/swift/" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" title="Swift" style="display: block; border: none;"/></a>
+    <!-- Linux -->
+    <a href="https://www.linux.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div style="text-align: center;">
