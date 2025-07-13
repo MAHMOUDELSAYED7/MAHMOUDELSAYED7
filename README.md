@@ -30,11 +30,6 @@
 <img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="WhatsApp" height="35" width="35" /></a>
 </p>
 
-
-
-
-
-### 🛠️ Tech Stack
 ### 🛠️ Tech Stack
 <p align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; font-size: 0;">
