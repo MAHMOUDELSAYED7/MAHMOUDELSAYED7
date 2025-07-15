@@ -11,6 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAHMOUDELSAYED7&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMOUDELSAYED7" /> </p>
 
+### 👨‍💻 About me
 - 🔭 I’m currently working on [*Private Repository*](PrivateRepository)
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose, Express.js**
 
@@ -18,10 +19,7 @@
 
 - 🛠️ Ask me about **Dart, Flutter, Firebase, Google Maps**
 
-- 📫 How to reach me **mahmoudelsayed.dev@gmail.com**
-
-
-### 💬 Connect with me:
+### 💬 Connect with me
 <p align="left">
 <a href="mailto:mahmoudelsayed.dev@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" height="35" width="35" /></a>
 <a href="https://www.linkedin.com/in/mahmoud-el-sayed123/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="35" width="35" /></a>
@@ -29,6 +27,8 @@
 <a href="https://wa.me/201061172139" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="WhatsApp" height="35" width="35" /></a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Tech Stack
 <p align="center">
@@ -76,9 +76,10 @@
     <!-- Swift -->
     <a href="https://developer.apple.com/swift/" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" title="Swift" style="display: block; border: none;"/></a>
     <!-- Linux -->
-    <a href="https://www.linux.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;">
+    <a href="https://www.linux.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 📊 GitHub Analytics
 
 <div style="text-align: center;">
     <a href="https://git.io/streak-stats">
