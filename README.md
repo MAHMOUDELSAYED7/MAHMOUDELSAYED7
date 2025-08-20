@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on [*Private Repository*](PrivateRepository)
 
-- 🛠️ Ask me about **Dart, Flutter, Firebase, Google Maps**
+- 🛠️ Ask me about **Dart, Flutter, Firebase, Google Maps, payment integration**
 
 ### 💬 Connect with me
 <p align="left">
