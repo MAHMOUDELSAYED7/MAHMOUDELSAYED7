@@ -22,7 +22,6 @@
 ### 💬 Connect with me
 <p align="left">
 <a href="mailto:mahmoudelsayed.dev@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" height="35" width="35" /></a>
-<a href="https://www.linkedin.com/in/mahmoud-el-sayed123/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="35" width="35" /></a>
 <a href="https://www.facebook.com/mahmoudelsayed123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="35" /></a>
 <a href="https://wa.me/201061172139" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="WhatsApp" height="35" width="35" /></a>
